@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am Currently in pre-final year Artificial intelligence and Machine Learning.<br>I am passionate about Ai and Machine Learning  and LLMS
+As a focused and enthusiastic developer in my third year of Artificial Intelligence and Machine Learning studies, my passion lies in the realms of software development and artificial intelligence. My journey has involved a thorough exploration of underlying concepts, coupled with their vibrant application across various projects. It's through this hands-on experience that my love for these domains has truly taken root.
+
+Driven by a genuine enthusiasm, I thrive on the challenge of constructing and applying algorithms to address tangible industry problems. This passion not only fuels my academic pursuits but also motivates me to seek innovative solutions that bridge the gap between theory and real-world application. I am excited about the prospect of contributing to the advancements in these fields and making a meaningful impact in the realm of artificial intelligence and machine learning.
 
 
 ## 🌐 Socials:

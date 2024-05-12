@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am Currently in pre-final year Artificial intelligence and Machine Learning.<br>I ma passionate about Ai and machin learning and LLMS
+I am Currently in pre-final year Artificial intelligence and Machine Learning.<br>I am passionate about Ai and Machine Learning  and LLMS
 
 
 ## 🌐 Socials:

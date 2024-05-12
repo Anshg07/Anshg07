@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Ansh07's GitHub | Dependencies](https://stats.quine.sh/Ansh07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ansh07)
 <!--
 **Anshg07/Anshg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
